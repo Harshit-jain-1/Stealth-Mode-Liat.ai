@@ -26,13 +26,12 @@ Each player detected in the **tacticam** video is matched to their corresponding
 7. scikit-learn	Cosine similarity computation
 8. pandas	Output mapping to CSV
 ________________________________________
-📁 Files Included
-File	Description
-broadcast.mp4	Broadcast view of the game
-tacticam.mp4	Tactical camera angle
-best.pt	YOLOv8 player detection model
-cross_camera_match.py	Full source code
-player_id_mapping.csv	Output of player ID correspondences
-report.md / report.pdf	Theory and explanation
-README.md	How to run and install dependencies
+## Files Included
+1. broadcast.mp4	Broadcast view of the game
+2. tacticam.mp4	Tactical camera angle
+3. best.pt	YOLOv8 player detection model
+4. cross_camera_match.py	Full source code
+5. player_id_mapping.csv	Output of player ID correspondences
+6. Cross-Camera Player Mapping.pdf	Theory and explanation
+7. README.md	How to run and install dependencies
 ________________________________________
