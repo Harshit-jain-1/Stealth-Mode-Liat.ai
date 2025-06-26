@@ -32,6 +32,6 @@ ________________________________________
 3. best.pt	YOLOv8 player detection model
 4. cross_camera_match.py	Full source code
 5. player_id_mapping.csv	Output of player ID correspondences
-6. Cross-Camera Player Mapping.pdf	Theory and explanation
+6. Cross-Camera Player Mapping pdf.pdf	Theory and explanation
 7. README.md	How to run and install dependencies
 ________________________________________
